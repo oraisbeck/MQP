@@ -1,1 +1,4 @@
-#hi can I commit
+#making a commit
+
+def fun():
+    x=2
