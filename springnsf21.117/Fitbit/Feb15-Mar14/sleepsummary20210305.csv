@@ -1,0 +1,4 @@
+Date,MainSleep,Efficiency,Duration,Minutes Asleep,Minutes Awake,Awakenings,Restless Count,Restless Duration,Time in Bed,Deep,Light,Rem,Wake,totalMinutesAsleep,totalSleepRecords,totalTimeInBed
+2021-03-05,True,91,32460000,495,46,2,27,43,541,116,240,115,70,495,1,541
+Date,MainSleep,Efficiency,Duration,Minutes Asleep,Minutes Awake,Awakenings,Restless Count,Restless Duration,Time in Bed,Deep,Light,Rem,Wake,totalMinutesAsleep,totalSleepRecords,totalTimeInBed
+2021-03-05,True,92,21480000,329,29,2,17,27,358,31,248,37,42,329,1,358
